@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sharaz Javed
 - 👀 I’m interested in Artifical intelligence, gazebo 3D simulator and ROS 
-- 📫 How to reach me ou can email me on sharazjavd@gmail.com
+- 📫 How to reach me ou can email me on sharazjaved@gmail.com
 
 <!---
 SharazJaved/SharazJaved is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
