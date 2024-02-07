@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sharaz Javed
-- 👀 I’m interested in Artifical intelligence, gazebo 3D simulator and ROS 
+- 👀 I’m interested in Artifical intelligence, MAchine learning, Robotics, Gazebo 3D Simulator and ROS 
 - 📫 you can to reach me by email me on sharazjaved@gmail.com
 
 <!---
